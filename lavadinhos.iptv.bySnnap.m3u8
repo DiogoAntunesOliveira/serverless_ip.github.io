@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT1
+http://cineapp.org:8000/Fernando/Fernando/7451?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT2
+http://cineapp.org:8000/Fernando/Fernando/7452?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT3
+http://cineapp.org:8000/Fernando/Fernando/7453?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT4
+http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT6
+http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BENFICA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11067?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",BENFICA1
+http://cineapp.org:8000/Fernando/Fernando/2301?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Benfica TV PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/benfica.pt.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Bola TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bola.tv.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",CANAL 11
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/120?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Movies",Canal Hollywood
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.hollywood.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Movies",Hollywood HD
+http://red.ipfox.org:8080/osama2022/osama2023/49337?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Movies",TVCine 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Movies",TVCine 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Movies",TVCine Action
+http://red.ipfox.org:8080/osama2022/osama2023/49339?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Movies",AXN HD
+http://red.ipfox.org:8080/osama2022/osama2023/49328?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Movies",AXN WHITE
+http://cineapp.org:8000/Fernando/Fernando/2309?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Movies",AXN PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.pt.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="info",CMTV
+http://red.ipfox.org:8080/osama2022/osama2023/49347?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Buisiness",Bloomberg
+http://red.ipfox.org:8080/osama2022/osama2023/49245?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Buisiness",Euronews
+http://red.ipfox.org:8080/osama2022/osama2023/49251?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Kids",CARTOON NETWORK
+http://cineapp.org:8000/Fernando/Fernando/2323?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Kids",NICKELODEON
+http://cineapp.org:8000/Fernando/Fernando/7750?checkedby:iptvcat.com
